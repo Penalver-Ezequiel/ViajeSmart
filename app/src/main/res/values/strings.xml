@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ViajeSmart</string>
+    <string name="btn_buscar">BUSCAR</string>
+    <string name="hint_busqueda">¿A dónde vas?</string>
+    <string name="uber">Uber</string>
+    <string name="cabify">Cabify</string>
+    <string name="didi">DiDi</string>
+    <string name="precio_inicial">$0.00</string>
+</resources>
