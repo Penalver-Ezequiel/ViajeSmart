@@ -20,10 +20,4 @@
 - Room (almacenamiento local)
 - GitHub (control de versiones)
 
-## 🚫 Fuera de Alcance (Fase 1)
-
-- Registro/login de usuarios
-- Reservas directas desde la app
-- Notificaciones push
-- Modo conductor
 
